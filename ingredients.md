@@ -1,3 +1,5 @@
+Let's begin!
+
 # Ingredients
 ## 5 Spice Rotisserie Chicken
 * 1x 3-4lb whole chicken
@@ -27,3 +29,5 @@
 * 1/2lb mussels
 * 8 oz calamari rings
 * Lemons (garnish)
+
+Enjoy my recipe!
