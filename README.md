@@ -16,4 +16,6 @@ Directions
 2. *Prepare* the rotisserie
 3. *Make the paella*
 
+![Paella in a pan](recipe.jpg)
+
 ### This is a REMOTE change :O
