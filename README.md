@@ -6,14 +6,14 @@ Ensure you roast the chicken first before cooking the paella
 last line changed locally
 
 Ingredients
-* Whole chicken
-* Paella rice
+* **Whole** chicken
+* **Paella** rice
 * Seafood
 * Fresh vegetables
 
 Directions
-1. Marinade the chicken
-2. Prepare the rotisserie
-3. Make the paella
+1. _Marinade_ the chicken
+2. *Prepare* the rotisserie
+3. *Make the paella*
 
 ### This is a REMOTE change :O
